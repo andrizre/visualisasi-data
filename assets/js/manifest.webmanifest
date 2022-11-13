@@ -3,7 +3,7 @@
   "background_color": "#f69435",
   "display": "standalone",
   "scope": "/",
-  "start_url": "andrizre.github.io",
+  "start_url": "/",
   "name": "Aplikasi Rental Mobil ",
   "short_name": "Rental",
   "description": "Aplikasi Sederhana Studi Kasus Rental Mobil",
