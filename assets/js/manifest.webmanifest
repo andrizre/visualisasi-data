@@ -5,8 +5,8 @@
   "scope": "/",
   "start_url": "/",
   "name": "Aplikasi Rental Mobil ",
-  "short_name": "Rental",
-  "description": "Aplikasi Sederhana Studi Kasus Rental Mobil",
+  "short_name": "& Rental Mobil",
+  "description": "Aplikasi PWA Rental Mobil",
   "icons": [
     {
       "src": "/icon-192x192.png",
